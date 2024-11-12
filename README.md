@@ -1,5 +1,7 @@
 # Task Dashboard
 
+(project live demo)[https://dashboard-ui-phi-ochre.vercel.app/]
+
 ![Screenshot from 2024-11-12 19-31-05](https://github.com/user-attachments/assets/b4314999-91da-4a7f-8841-36016248b11d)
 
 Developed a task dashboard as part of an internship assignment, using React as the core framework and styled with Tailwind CSS. Integrated React Redux for efficient state management and React DnD for smooth drag-and-drop functionality, enhancing user experience. The UI closely follows a Figma design provided, ensuring a visually appealing and user-friendly interface.
