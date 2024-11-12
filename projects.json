@@ -1,0 +1,30 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "title": "Mobile App",
+            "status": "done",
+            "description": "some random description"
+        },
+        {
+            "id": 2,
+            "title": "Website Design",
+            "status": "on progress",
+            "description": "some random description"
+
+        },
+        {
+            "id": 3,
+            "title": "Design System",
+            "status": "pending",
+            "description": "some random description"
+
+        },
+        {
+            "id": 4,
+            "title": "Wireframes",
+            "status": "to do",
+            "description": "some random description"
+        }
+    ]
+}
